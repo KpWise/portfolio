@@ -1,0 +1,65 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #12bcc2;
+  color: #333;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+header h1 {
+  margin: 0;
+  padding-left: 6px;
+}
+
+header p {
+  margin: 5px 0;
+  padding-left: 7px;
+}
+
+section {
+  padding: 20px;
+  margin: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+h2 {
+  color: #333;
+}
+
+.project {
+  margin-bottom: 15px;
+}
+
+ .img-port{ 
+  height: 110px;
+  padding-left: 0px;
+  
+
+}
+
+.Keondin-Photo{
+  height: 230px;
+
+}
+
+
+@media only screen and (max-width: 600px) {
+  section {
+      margin: 10px;
+  }
+}
+
+ion-icon{
+margin-top: 1px;
+color: #333; 
+font-size: 28px; 
+  
+}
